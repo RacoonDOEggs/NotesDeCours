@@ -4,32 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "a9204945fb4142b4",
+        "id": "d9be56280c5b7bf1",
         "type": "tabs",
         "children": [
           {
-            "id": "c0495025b3218e7a",
+            "id": "7654838bd4ff9dad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "cb039037dffbef61",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "71f30d11f15f71af",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -83,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "e85612ddbdd0ad74",
@@ -156,8 +138,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71f30d11f15f71af",
+  "active": "7654838bd4ff9dad",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Table des Matières.md",
+    "StrategiesDApprentissage/Stratégies d'apprentissage.md",
+    "StrategiesDApprentissage/Les Schémas.md",
+    "Images/StrategiesApprentissage/StrategiesAffectives.png",
+    "Images/StrategiesApprentissage/StrategiesGestionRessources.png",
+    "Images/StrategiesApprentissage/StrategiesMetacognitives.png",
+    "Images/StrategiesApprentissage/StrategiesConditionnelles.png",
+    "Images/StrategiesApprentissage",
+    "Images/New folder",
+    "StrategiesDApprentissage/La Lecture.md",
+    "Images/Schemas/EvaluationProcedure.png",
+    "Images/Schemas/EvaluationConcepts.png",
+    "Images/Schemas/SchemaProcedure2.png",
+    "Images/Schemas/SchemaProcedure1.png",
+    "Images/Schemas/SchemasHeuristique.png",
+    "Images/Schemas/SchemaDeConcepts.png",
+    "Images/Schemas",
+    "Images",
+    "StrategiesDApprentissage/Images/Schemas",
+    "StrategiesDApprentissage/Images",
+    "Les Schémas.md",
+    "StrategiesDApprentissage",
+    "New folder",
+    "Stratégies d'apprentissage.md",
+    "Images.md",
+    "Images/LesSchemas",
+    "Images/Les Schémas"
   ]
 }
