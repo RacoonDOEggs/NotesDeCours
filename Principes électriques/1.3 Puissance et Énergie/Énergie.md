@@ -1,0 +1,1 @@
+L'énergie ($w$) (Exprimée en joules ($J$)) qui a alimenté un circuit dans un interval de temps est donnée par l'intégration en fonction du temps de la puissance: $$w=\int_{t_1}^{t_2} p(t) dt$$

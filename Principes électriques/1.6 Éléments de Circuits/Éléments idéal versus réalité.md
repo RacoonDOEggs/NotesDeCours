@@ -1,0 +1,1 @@
+Si des règles des éléments idéaux sont en contradiction sur le papier, cette contradiction est pratiquement certaine de se manifester sous forme de bris dans le vrais monde. Sinon, le modèle choisi pour représenter les éléments de circuit n'est pas fidèle.
