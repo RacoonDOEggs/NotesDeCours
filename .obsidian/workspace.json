@@ -23,16 +23,36 @@
             "id": "9c951012e821759e",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "c45b1b34c631a76f",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Principes électriques/1.2 Circuits, Courants et Voltages/Courants.md",
+                "file": "Principes électriques/9.1 Concepts de diodes de base/Concepts de diodes de base.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "704be1fa9a7a21a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Principes électriques/9.1 Concepts de diodes de base/Diode de Signal.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Principes électriques/1.2 Circuits, Courants et Voltages/Courants.md",
+                "file": "Principes électriques/9.1 Concepts de diodes de base/Diode de Signal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Principes électriques/1.2 Circuits, Courants et Voltages/Courants.md",
+                "file": "Principes électriques/9.1 Concepts de diodes de base/Diode de Signal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Principes électriques/1.2 Circuits, Courants et Voltages/Courants.md"
+                "file": "Principes électriques/9.1 Concepts de diodes de base/Diode de Signal.md"
               }
             }
           }
@@ -159,19 +179,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c951012e821759e",
+  "active": "2649f8fb289c5ba5",
   "lastOpenFiles": [
-    "Principes électriques/1.2 Circuits, Courants et Voltages/Voltages.md",
-    "Principes électriques/1.2 Circuits, Courants et Voltages/Courants.md",
+    "Principes électriques/9.1 Concepts de diodes de base/Concepts de diodes de base.md",
+    "Principes électriques/9.1 Concepts de diodes de base/Diode de Signal.md",
+    "Composantes/Condensateurs.md",
+    "Composantes/Composantes.md",
+    "Laboratoires/Labo 1 - Initiation aux appareils de mesures.md",
+    "Images/Composantes/CourantDiodes.png",
+    "Images/Composantes/Diode.png",
+    "Images/Diode.png",
+    "Images/Screenshot 2024-09-03 153322.png",
+    "Principes électriques/9.1 Concepts de diodes de base",
     "Principes électriques/1.6 Éléments de Circuits/Résistances (Élément).md",
+    "Principes électriques/1.6 Éléments de Circuits/1.6 Éléments de circuits.md",
+    "Principes électriques/Principes Électriques.md",
+    "Table des Matières.md",
+    "Laboratoires/Laboratoires.md",
+    "Principes électriques/1.2 Circuits, Courants et Voltages/Courants.md",
+    "Principes électriques/1.2 Circuits, Courants et Voltages/Voltages.md",
     "Principes électriques/1.6 Éléments de Circuits/Sources de courant.md",
     "Principes électriques/1.6 Éléments de Circuits/Sources de tension.md",
     "Principes électriques/1.6 Éléments de Circuits/Éléments idéal versus réalité.md",
-    "Principes électriques/1.6 Éléments de Circuits/1.6 Éléments de circuits.md",
     "Principes électriques/1.6 Éléments de Circuits/Conducteurs.md",
     "Principes électriques/1.6 Éléments de Circuits",
     "Composantes/Résistances (Composante).md",
-    "Principes électriques/Principes Électriques.md",
     "Principes électriques/1.3 Puissance et Énergie/1.3 Puissance et Énergie.md",
     "Principes électriques/1.2 Circuits, Courants et Voltages/1.2 Circuits, Courants et Voltages.md",
     "Principes électriques/1.3 Puissance et Énergie/Énergie.md",
@@ -180,10 +212,7 @@
     "Principes électriques/1.3 Puissance et Énergie/Préfixes.md",
     "Principes électriques/1.3 Puissance et Énergie/Puissance.md",
     "Principes électriques/1.3 Puissance et Énergie",
-    "Laboratoires/Laboratoires.md",
-    "Table des Matières.md",
     "Principes électriques",
-    "Laboratoires/Labo 1 - Initiation aux appareils de mesures.md",
     "Images/Laboratoires/1/Figure10.png",
     "Images/Laboratoires/1/Screenshot 2024-09-01 124858.png",
     "Images/Laboratoires/1/Figure8.png",
@@ -193,19 +222,10 @@
     "Images/Laboratoires",
     "Images/New folder",
     "Laboratoires",
-    "Composantes/Condensateurs.md",
     "Images/Composantes/Capacitor_Types.png",
     "Images/Composantes/Voltage-of-Capacitor-Color-Code.webp",
-    "Images/Composantes/Capacitance-of-Capacitor-Color-Code-768x521.webp",
-    "Images/Composantes/Table-for-5-bands-color-codes-for-ceramic-capacitors-768x534.webp",
-    "Images/Composantes/Capacitor-Color-Codes.webp",
-    "Images/Composantes/CapacitorMarkingCodes.webp",
-    "Composantes/Composantes.md",
-    "Images/Composantes",
     "StrategiesDApprentissage/Stratégies d'apprentissage.md",
     "StrategiesDApprentissage/Les Schémas.md",
-    "StrategiesDApprentissage/La Lecture.md",
-    "Les Schémas.md",
-    "Stratégies d'apprentissage.md"
+    "StrategiesDApprentissage/La Lecture.md"
   ]
 }
